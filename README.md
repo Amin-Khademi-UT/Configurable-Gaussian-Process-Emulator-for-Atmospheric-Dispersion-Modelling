@@ -200,8 +200,8 @@ The framework is therefore intended for surrogate modelling and sampling strateg
 - Latin Hypercube Sampling
 - Atmospheric Dispersion Modelling
 
-## Author
+TNX
 
-**[Amin Khademi]**
+Amin Khademi
 
 Developed as a computational research project on Gaussian Process emulation and atmospheric dispersion modelling.
